@@ -14,7 +14,7 @@ SKILLS
 
 FEATURED PROJECTS:
 
-Internal Security Audit- file:///C:/Users/natas/Downloads/Controls%20and%20compliance%20checklist.pdf
+Internal Security Audit- https://docs.google.com/document/d/1KLEsVn0K5J9GwCrYEAICCxPMM271XN-M6kCjVZbGCys/edit?tab=t.0
 
 CERTIFICATIONS
 
