@@ -12,7 +12,9 @@ PROFFESIONAL STATEMENT- https://docs.google.com/document/d/1ALNipW1EaH36jby_WWXN
 
 SKILLS
 
-FEATURED PROJECTS
+FEATURED PROJECTS:
+
+Internal Security Audit- file:///C:/Users/natas/Downloads/Controls%20and%20compliance%20checklist.pdf
 
 CERTIFICATIONS
 
