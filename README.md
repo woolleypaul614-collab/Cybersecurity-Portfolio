@@ -8,6 +8,8 @@ OBJECTIVE
 
 My journey with technology and the internet started in high school as a teenager. With the ever-growing world of the internet, it is creating many threats in many forms. Since becoming a father this has led me to develop a passion for cybersecurity, and I'm now eager to transition into this field, specifically aiming to become a Cybersecurity Analyst  or Cybersecurity Engineer.
 
+PROFFESIONAL STATEMENT- https://docs.google.com/document/d/1ALNipW1EaH36jby_WWXNqcidEUDULLFn4aJ7MlhkvC4/edit?tab=t.0#heading=h.dxsnrsgqx7v6
+
 SKILLS
 
 FEATURED PROJECTS
