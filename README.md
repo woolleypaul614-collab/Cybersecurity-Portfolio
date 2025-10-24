@@ -19,6 +19,7 @@ Cybersecurity Incident Report: Network Traffic Analysis- https://docs.google.com
 Cybersecurity Incident Report: Analyze Network Attacks- https://docs.google.com/document/d/106Gzf8d-Rr97lVX_XaXI6st8y5kzYlAWZNRlJj_6-EY/edit?tab=t.0
 Use Linux Commands To Manage File Permissions- https://docs.google.com/document/d/1GRa8nt0yimiHCXc32VcqMEr_DdB0FkCiGeuMIiU7wjI/edit?tab=t.0#heading=h.adnh333husy
 Changing File Permissions in Linux- https://docs.google.com/document/d/17qLx2JFVetrpgpHjvdBDkybLmg6adsubS3ppNB68nSY/edit?tab=t.0
+Apply Filters To SQL Queries- file:///C:/Users/natas/Downloads/Apply%20filters%20to%20SQL%20queries.pdf
 
 CERTIFICATIONS
 
