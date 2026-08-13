@@ -13,7 +13,10 @@ PROFFESIONAL STATEMENT- https://docs.google.com/document/d/1ALNipW1EaH36jby_WWXN
 SKILLS
 
 FEATURED PROJECTS:
-
+Cybersecurity-Portfolio
+└── projects
+    └── botium-toys-security-audit
+        └── README.md
 Internal Security Audit- https://docs.google.com/document/d/1KLEsVn0K5J9GwCrYEAICCxPMM271XN-M6kCjVZbGCys/edit?tab=t.0
 Cybersecurity Incident Report: Network Traffic Analysis- https://docs.google.com/document/d/1SllSnqi5K1__Gb7oEDjUnz9N1NVnEGtmd-NHuyxj-bo/edit?tab=t.0
 Cybersecurity Incident Report: Analyze Network Attacks- https://docs.google.com/document/d/106Gzf8d-Rr97lVX_XaXI6st8y5kzYlAWZNRlJj_6-EY/edit?tab=t.0
