@@ -1,0 +1,73 @@
+# NIST Cybersecurity Framework — DDoS Incident Response
+
+## Project Overview
+
+This project involved applying the NIST Cybersecurity Framework (CSF) to a simulated distributed denial-of-service (DDoS) incident as part of the Google Cybersecurity Professional Certificate.
+
+The scenario involved a company experiencing a disruption to its network services caused by a flood of incoming ICMP packets. The investigation focused on using the five core NIST CSF functions — Identify, Protect, Detect, Respond, and Recover — to analyse the incident and recommend appropriate security measures.
+
+The objective was to demonstrate how the NIST Cybersecurity Framework can be used to structure an effective response to a cybersecurity incident and improve an organisation's overall security posture.
+
+## Incident Summary
+
+A company experienced a major disruption when its network services suddenly stopped responding.
+
+The cybersecurity team determined that the incident was caused by a distributed denial-of-service (DDoS) attack involving a flood of incoming ICMP packets. The attack affected the company's internal network and prevented critical services from functioning normally.
+
+The team responded by blocking the malicious traffic, stopping non-critical network services, and prioritising the restoration of critical services.
+
+The incident was analysed using the five core functions of the NIST Cybersecurity Framework: Identify, Protect, Detect, Respond, and Recover.
+
+## NIST Cybersecurity Framework Analysis
+
+**Note:** This project uses the five core functions of the NIST Cybersecurity Framework: Identify, Protect, Detect, Respond and Recover. These functions correspond to NIST CSF 1.1. NIST CSF 2.0, released in 2024, introduced Govern as a sixth function. The analysis below focuses on the five functions relevant to the incident scenario.
+
+### 1. Identify
+
+The organisation first needed to understand the scope and impact of the incident.
+
+The cybersecurity team identified that a malicious actor or actors had targeted the company with an ICMP flood attack. The attack affected the internal network and disrupted critical network resources and services.
+
+The team needed to identify the affected systems, determine which network resources were critical, and understand the potential impact of the attack before prioritising the response.
+
+This demonstrates the Identify function of the NIST Cybersecurity Framework by establishing an understanding of the organisation's systems, assets, risks, and the potential impact of the security incident.
+
+### 2. Protect
+
+The organisation implemented security controls to reduce the likelihood and impact of future attacks.
+
+The cybersecurity team introduced a new firewall rule to limit the rate of incoming ICMP packets. An IDS/IPS system was also implemented to filter ICMP traffic based on suspicious characteristics.
+
+These measures help protect network resources by controlling potentially malicious traffic and reducing the risk of another ICMP flood attack.
+
+This demonstrates the Protect function of the NIST Cybersecurity Framework by implementing safeguards designed to limit the impact of cybersecurity threats.
+
+### 3. Detect
+
+The organisation needed to identify the attack quickly and determine which systems and network resources were being affected.
+
+The cybersecurity team monitored network traffic and identified an unusually high volume of incoming ICMP packets. The team analysed the traffic to determine that the activity was consistent with an ICMP flood attack.
+
+Network monitoring and analysis helped the team identify the source and characteristics of the malicious traffic and understand the scope of the incident.
+
+This demonstrates the Detect function of the NIST Cybersecurity Framework by identifying potential cybersecurity events and analysing them to determine whether a security incident has occurred.
+
+### 4. Respond
+
+The organisation responded to the DDoS attack by taking immediate steps to contain the incident and reduce its impact on network services.
+
+The cybersecurity team blocked the malicious traffic and implemented firewall rules to limit the rate of incoming ICMP packets. Non-critical network services were temporarily stopped to reduce the load on the affected systems.
+
+The team prioritised the restoration of critical services while continuing to monitor the network for further malicious activity.
+
+This demonstrates the Respond function of the NIST Cybersecurity Framework by taking action to contain the incident, reduce its impact, and maintain critical operations.
+
+### 5. Recover
+
+The organisation worked to restore affected network services after the DDoS attack had been contained.
+
+The cybersecurity team restored critical network services and verified that the affected systems were operating normally. Network traffic continued to be monitored to ensure that the attack had ended and that no further malicious activity was detected.
+
+The team also reviewed the incident to identify improvements that could reduce the impact of similar attacks in the future.
+
+This demonstrates the Recover function of the NIST Cybersecurity Framework by restoring affected services, maintaining normal operations, and using lessons learned to improve the organisation's future security posture.
