@@ -15,7 +15,7 @@ SKILLS
 FEATURED PROJECTS:
 
 Simulated internal Security Audit-  [View Project](projects/botium-toys-security-audit/)
-Cybersecurity Incident Report: Network Traffic Analysis- https://docs.google.com/document/d/1SllSnqi5K1__Gb7oEDjUnz9N1NVnEGtmd-NHuyxj-bo/edit?tab=t.0
+Cybersecurity Incident Report: Network Traffic Analysis – [View Project](projects/network-traffic-analysis/)
 NIST CSF DDoS Incident Response – [View Project](./projects/nist-csf-ddos-incident-response)
 Cybersecurity Incident Report: Analyze Network Attacks- https://docs.google.com/document/d/106Gzf8d-Rr97lVX_XaXI6st8y5kzYlAWZNRlJj_6-EY/edit?tab=t.0
 Use Linux Commands To Manage File Permissions- https://docs.google.com/document/d/1GRa8nt0yimiHCXc32VcqMEr_DdB0FkCiGeuMIiU7wjI/edit?tab=t.0#heading=h.adnh333husy
