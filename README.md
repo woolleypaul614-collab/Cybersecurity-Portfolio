@@ -17,8 +17,8 @@ FEATURED PROJECTS:
 Simulated internal Security Audit-  [View Project](projects/botium-toys-security-audit/)
 Cybersecurity Incident Report: Network Traffic Analysis – [View Project](projects/network-traffic-analysis/)
 NIST CSF DDoS Incident Response – [View Project](./projects/nist-csf-ddos-incident-response)
-Cybersecurity Incident Report: Analyze Network Attacks- https://docs.google.com/document/d/106Gzf8d-Rr97lVX_XaXI6st8y5kzYlAWZNRlJj_6-EY/edit?tab=t.0
-Use Linux Commands To Manage File Permissions- https://docs.google.com/document/d/1GRa8nt0yimiHCXc32VcqMEr_DdB0FkCiGeuMIiU7wjI/edit?tab=t.0#heading=h.adnh333husy
+Cybersecurity Incident Report: Analyze Network Attacks- [View Project](https://docs.google.com/document/d/106Gzf8d-Rr97IVX_XaXI6st8y5kzYIAWZNRLj_6-EY/edit?tab=t.0)
+Use Linux Commands To Manage File Permissions- [View Project](PASTE_PROJECT_4_LINK)
 Changing File Permissions in Linux- https://docs.google.com/document/d/17qLx2JFVetrpgpHjvdBDkybLmg6adsubS3ppNB68nSY/edit?tab=t.0
 Apply Filters To SQL Queries- https://docs.google.com/document/d/15epWHgOWZxKlje1w9YurQqqanepWiNyeZWi3ZQYwk3k/edit?tab=t.0
 
